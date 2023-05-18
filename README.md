@@ -3,9 +3,8 @@ I’m a computer science student experienced with JavaScript/TypeScript, Node.js
 
 ## Contact
 
-- [Email](https://mailhide.io/en/e/aW9nH5rH)
-- Matrix: [@cherryblossom000:matrix.org](https://matrix.to/#/@cherryblossom000:matrix.org)
-- Discord: [cherryblossom#2661](https://discord.com/users/506054261717598210)
+- [Email]: N/A
+- Discord: [Hyunski#0909]
 
 ## Some cool stats
 
