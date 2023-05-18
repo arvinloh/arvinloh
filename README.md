@@ -1,16 +1,19 @@
-### Hi there 👋
+I’m a computer science student experienced with JavaScript/TypeScript, Node.js, and HTML/CSS. You may have seen [me on Stack Overflow](https://stackoverflow.com/users/8289918/cherryblossom) answering questions about TypeScript and discord.js. I am also familiar with Python, Swift, Rust, and Haskell.
 
-<!--
-**JadeZerotoHero/JadeZerotoHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email](https://mailhide.io/en/e/aW9nH5rH)
+- Matrix: [@cherryblossom000:matrix.org](https://matrix.to/#/@cherryblossom000:matrix.org)
+- Discord: [cherryblossom#2661](https://discord.com/users/506054261717598210)
+
+## Some cool stats
+
+![GitHub stats](https://github-readme-stats-kohl-tau.vercel.app/api?username=JadeZerotoHero&include_all_commits=true)
+![Top languages](https://github-readme-stats-kohl-tau.vercel.app/api/top-langs?username=JadeZerotoHero&layout=compact&langs_count=10)
+
+<details>
+  <summary>Click to expand</summary>
+  
+  ![Metrics stats](https://gist.githubusercontent.com/cherryblossom000/f34ce5b1bc70befdb2502e3292e2f191/raw/github-metrics.svg)
+</details>
