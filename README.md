@@ -1,4 +1,4 @@
-I’m a computer science student experienced with JavaScript/TypeScript, React, and HTML/CSS. I am also familiar with Python, Swift, Rust, and Haskell.
+I’m a computer science student experienced with JavaScript/TypeScript, React, and HTML/CSS.
 
 ## Some cool stats
 
