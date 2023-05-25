@@ -1,4 +1,4 @@
-I’m a computer science student experienced with JavaScript/TypeScript, Node.js, and HTML/CSS. You may have seen [me on Stack Overflow](https://stackoverflow.com/users/8289918/cherryblossom) answering questions about TypeScript and discord.js. I am also familiar with Python, Swift, Rust, and Haskell.
+I’m a computer science student experienced with JavaScript/TypeScript, React, and HTML/CSS. I am also familiar with Python, Swift, Rust, and Haskell.
 
 ## Some cool stats
 
