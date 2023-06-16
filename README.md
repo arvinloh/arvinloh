@@ -1,1 +1,2 @@
-Computer Science Student | Python projects
+# Computer Science Student
+Journey started early 2023.
