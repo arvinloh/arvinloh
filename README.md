@@ -1,4 +1,4 @@
-## Computer Science Student <img src="assets/miyu.gif" width="30">
+## Computer Science Student <img src="main/assets/miyu.gif" width="30">
 Journey started early 2023.
 
 # Tools I use:
