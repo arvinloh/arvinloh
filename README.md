@@ -1,17 +1,18 @@
-## Computer Science Student <img src="main/assets/miyu.gif" width="30">
-Journey started early 2023.
+<div align="center">
+<img src="https://github.com/arvinloh/arvinloh/assets/anya.jpg" width="25%" align="right" />
 
-# Tools I use:
-</br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=2000&pause=300&color=90EE90&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;I'm+Arvin+and+I+touch+grass+%F0%9F%8C%B1" width="70%"/>
 
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-
+<br><br>
+<pre>
+    💼 BSc @ Monash University
+    💻 Python • JavaScript • C++ • R 
+    📖 Second Year • Computational Science & Mathematics
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/arvinloh/arvinloh/assets/cat_walking.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin)](https://www.linkedin.com/in/arvinloh-/)
+</div>
