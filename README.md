@@ -14,5 +14,5 @@
 <img src="https://github.com/arvinloh/arvinloh/blob/main/assets/cat_walking.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin)](https://www.linkedin.com/in/arvinloh-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/arvinloh-/)
 </div>
