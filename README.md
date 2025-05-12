@@ -7,7 +7,7 @@
 <pre>
     💼 BSc @ Monash University
     💻 Python • JavaScript • Java • C++ • C • R • Tableau • SQL 
-    📖 Second Year • Computational Science & Mathematics
+    📖 Graduate 2025 • Computational Science & Mathematics
     🎮 Music • Games • Code • Art
 </pre>
 <br><br>
