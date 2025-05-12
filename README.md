@@ -6,9 +6,9 @@
 <br><br>
 <pre>
     💼 BSc @ Monash University
-    💻 Python • JavaScript • C++ • R 
+    💻 Python • JavaScript • Java • C++ • C • R • Tableau • SQL 
     📖 Second Year • Computational Science & Mathematics
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Games • Code • Art
 </pre>
 <br><br>
 <img src="https://github.com/arvinloh/arvinloh/blob/main/assets/cat_walking.gif" height="40" />
